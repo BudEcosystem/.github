@@ -1,7 +1,14 @@
 [![ Bud Ecosystem](https://github.com/BudEcosystem/.github/blob/main/assets/simplifying-intelligence-bud.png)]() 
 
 ## About Bud Ecosystem
-**Bud Ecosystem** is an AI research company specializing in multi-modal Generative AI. Our mission is to simplify AI and break down the technical and financial barriers that prevent enterprises and individuals from accessing it. 
+We are an AI research company specializing in multimodal generative AI. We build tools that simplify access to AI and break down the technical and financial barriers that prevent organizations and individuals from using it.
+
+#### What We Build
+- **Bud AI Foundry** : A control panel for your GenAI deployments, designed to maximize infrastructure performance and give you full control over every aspect, from deployment administration to compliance and security management—All in one place.
+
+- **Bud Models** : A collection of GenAI models including LLMs, SLMs, Diffusion models, Code models. Some of them deliver SOTA performances. are pre-trained/finetuned for domain specific use cases.
+
+- **Bud Runtime** : A GenAI serving and inference optimization software stack that delivers state-of-the-art performance across any hardware and OS. It ensures production-ready deployments on CPUs, HPUs, NPUs, and GPUs. 
 
 <!--
 
