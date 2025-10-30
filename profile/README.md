@@ -1,4 +1,7 @@
-## Hi there 👋
+[![ Bud Ecosystem](https://github.com/BudEcosystem/.github/blob/main/assets/simplifying-intelligence-bud.png)]() 
+
+## About Bud Ecosystem
+**Bud Ecosystem** is an AI research company specializing in multi-modal Generative AI. Our mission is to simplify AI and break down the technical and financial barriers that prevent enterprises and individuals from accessing it. 
 
 <!--
 
